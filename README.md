@@ -22,6 +22,6 @@
 
 个人公众号：
 
-![](./img/wechat.jpg)
+![](./wechat.jpg)
 
 博客：[极客光城](https://light-city.club/)
